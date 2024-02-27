@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: pink;
+    
+}
+h1{
+    color: #333;
+}
+canvas{
+    border: 1px solid #000;
+}
